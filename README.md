@@ -516,7 +516,7 @@ order by fines desc
 This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis.
 
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. Feel free to get in touch!
 Email = wahyu.wp74@gmail.com
 LinkedIn = https://www.linkedin.com/in/wahyu-wibowo/
 
